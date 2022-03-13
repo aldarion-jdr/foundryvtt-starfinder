@@ -275,7 +275,7 @@
                     "AlreadyFullyLoaded": "L'arme {name} est déjà complètement chargée.",
                     "NoAmmunitionAvailable": "Vous n'avez pas de munition disponible pour l'arme {name}.",
                     "Reload": "Recharger l'arme",
-                    "ReloadFromContainer": "L'arme {name} a été rechargée avec les munitions {ammoName} ventant du conteneur {containerName}. Vérifier votre action économie."
+                    "ReloadFromContainer": "L'arme {name} a été rechargée avec {ammoName} venant du conteneur {containerName}. Vérifier votre action économie."
                 }
             },
             "Modifiers": {
